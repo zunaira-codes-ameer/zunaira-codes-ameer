@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Zunaira 👋
 
-<!--
-**zunaira-codes-ameer/zunaira-codes-ameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- JavaScript
+- React.js
+- Next.js
+- Node.js
+- MongoDB
+- Angular
+- TypeScript
+- Python
+- HTML & CSS
+
+## Current Goals
+
+- Building real-world web applications
+- Improving problem-solving skills
+- Learning software engineering practices
+- Developing a professional portfolio
+
+## Portfolio
+
+[Visit my portfolio](https://zunaira.online)
